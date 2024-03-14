@@ -1,8 +1,16 @@
 # Meter to cm converter
 <p>A simple web-based calculator that converts lengths from meters (m) to centimeters (cm).</p>
+<h2>Usage</h2>
+<ul>
+<li>Enter the desired length in meters in the input field labeled "Enter length in meters (m)."</li>
+<li>Click the "Convert" button.</li>
+<li>The converted length in centimeters will be displayed in the output field labeled "Result in centimeters (cm)."</li>
+<li>To perform a new conversion, click the "Reset" button to clear the input and output fields.</li>
+</ul>
+
 <h2>Screenshot</h2>
-<p><img src="https://raw.githubusercontent.com/yury-makarov/feet-to-cm-converter/main/screenshot-of-the-feet-to-cm-converter.png" alt="Screenshot of the feet to cm converter"/></p>
-<p>Here is a screenshot of how the feet to centimeters converter works.</p>
+<p><img src="https://raw.githubusercontent.com/yury-makarov/feet-to-cm-converter/main/screenshot-of-the-feet-to-cm-converter.png" alt="Screenshot of the meters to cm converter"/></p>
+<p>Here is a screenshot of how the meters to centimeters converter works.</p>
 <h2>Technologies Used</h2>
 <ul>
     <li> HTML</li>
