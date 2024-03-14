@@ -9,7 +9,7 @@
 </ul>
 <p>Try demo: https://www.asutpp.com/meter-to-cm.html</p>
 <h2>Screenshot</h2>
-<p><img src="https://raw.githubusercontent.com/yury-makarov/feet-to-cm-converter/main/screenshot-of-the-feet-to-cm-converter.png" alt="Screenshot of the meters to cm converter"/></p>
+<p><img src="https://raw.githubusercontent.com/yury-makarov/meter-to-cm-converter/main/screenshot-of-the-meters-to-cm-converter.png" alt="Screenshot of the meters to cm converter"/></p>
 <p>Here is a screenshot of how the meters to centimeters converter works.</p>
 <h2>Technologies Used</h2>
 <ul>
