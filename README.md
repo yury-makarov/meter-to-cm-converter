@@ -1,5 +1,5 @@
 # Meter to cm converter
-Save time and effort by using cm to m converter
+<p>A simple web-based calculator that converts lengths from meters (m) to centimeters (cm).</p>
 <h2>Screenshot</h2>
 <p><img src="https://raw.githubusercontent.com/yury-makarov/feet-to-cm-converter/main/screenshot-of-the-feet-to-cm-converter.png" alt="Screenshot of the feet to cm converter"/></p>
 <p>Here is a screenshot of how the feet to centimeters converter works.</p>
