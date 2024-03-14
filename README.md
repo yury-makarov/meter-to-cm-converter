@@ -12,7 +12,7 @@ Save time and effort by using cm to m converter
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.</p>
 <h2>License</h2>
-<p>Feet to Centimeter converter is licensed under the <a href="https://github.com/yury-makarov/feet-to-cm-converter/blob/main/LICENSE">Apache-2.0 license</a></p>
+<p>Feet to Centimeter converter is licensed under the <a href="https://github.com/yury-makarov/meter-to-cm-converter/blob/main/LICENSE">Apache-2.0 license</a></p>
 <h2>Donations</h2>
 <p>I'm an beginner frontend developer and I would welcome any help you can give me. If you liked this online calculator and want to buy me a coffee, you can donate to my USDT TRC20 address: <code>TMRgxdJKG9BBCodEbebeiya62EvEZBfGfjrM</code>. Thank you very much!</p>
 <h2>See Also</h2>
